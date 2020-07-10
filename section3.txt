@@ -1,2 +1,3 @@
 this is section3 being edited after initial commit.
 
+this is section3 being edited inside Atom while inside development branch.
