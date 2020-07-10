@@ -1,1 +1,3 @@
 this is setion1 being edited inside git_github by vscode.
+
+this is section1 being edited inside Atom while in development branch.
